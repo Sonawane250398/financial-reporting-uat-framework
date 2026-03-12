@@ -27,7 +27,8 @@ It provides a repeatable approach to validating financial reporting pipelines be
 | Test Scenarios   | `test_scenarios.md` | 25 structured UAT test cases across multiple validation categories |
 | UAT Analysis SQL | `uat_analysis.sql`  | SQL layer that analyzes results and produces release scorecards    |
 | Sample Data      | `sample_data.csv`   | Example test execution dataset across multiple releases            |
-
+| Tableau Dashboard | `tableau_dashboard.md` | UAT release readiness dashboard design spec |
+| BRD Documentation | `BRD_SQL_Reconciliation_Framework.docx` | Full business requirements document |
 ---
 
 ## Test Coverage (25 Test Cases)
@@ -112,4 +113,4 @@ LinkedIn
 https://linkedin.com/in/yash-sonawane25
 
 Portfolio
-https://portfolio-delta-silk-82.vercel.app
+https://yashsonawane.vercel.app
